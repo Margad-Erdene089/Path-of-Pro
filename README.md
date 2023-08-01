@@ -1,2 +1,2 @@
 # Path-of-Pro
-programming language
+Accepted.mn site-iin bodloguud
